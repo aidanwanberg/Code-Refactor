@@ -1,11 +1,11 @@
 * HTML / CSS / Git Challenge 1: Code Refactor
 
-* User Story
+* User Story:
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 
-* Acceptance Criteria
+* Acceptance Criteria:
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
@@ -18,12 +18,12 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-* Description
-Refactored code for existing website, "Horiseon Social Solution Service" to meet accessability standards, and ensure that people with disabilites can access the website using assistive technologies. In order to improve the codebase for long-term sustainability, I consolidated CSS selectors and properties, followed proper CSS and HTMl semantic structure, and commented throughout the file to help with clarity. 
+* Description:
+Refactored code for existing website, "Horiseon Social Solution Service" to meet accessibility standards, and ensure that people with disabilities can access the website using assistive technologies. In order to improve the codebase for long-term sustainability, I consolidated CSS selectors and properties, followed proper CSS and HTMl semantic structure, and commented throughout the file to help with clarity. 
 
-* Screenshots
+* Screenshots:
 <img src="./assets/images/screenshot-1.png" alt="screenshot of top-half of website">
 <img src="./assets/images/screenshot-2.png" alt="screenshot of bottom-half of website">
 
-* URL of Deployed Application
+* URL of Deployed Application:
 https://aidanwanberg.github.io/Code-Refactor/ 
