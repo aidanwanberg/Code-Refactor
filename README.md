@@ -18,4 +18,10 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-* 
+* Description
+Refactored code for existing website, "Horiseon Social Solution Service" to meet accessability standards, and ensure that people with disabilites can access the website using assistive technologies. In order to improve the codebase for long-term sustainability, I consolidated CSS selectors and properties, followed proper CSS and HTMl semantic structure, and commented throughout the file to help with clarity. 
+
+* Screenshots
+
+
+* Link 
