@@ -27,3 +27,6 @@ Refactored code for existing website, "Horiseon Social Solution Service" to meet
 
 * URL of Deployed Application:
 https://aidanwanberg.github.io/Code-Refactor/ 
+
+* URL of GitHub Repository:
+https://github.com/aidanwanberg/Code-Refactor.git
